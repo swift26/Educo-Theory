@@ -1,1 +1,15 @@
-Puzzle
+Puzzle:
+
+There are 9 balls of equal shape and size, one of the ball is of different weight. We have one two sidded weighing machine to measure the weight of balls.
+In How many minumum way we can identify the odd ball.
+
+C programming:
+
+Bit operation with ^ , | and & operataror.
+
+  1. Set 7th position of a 32 bit number?
+  2. Reset the 7th postion of a 32 bit number?
+  3. Toggle the 7th bit of a 32 bit number?
+  4. Swap two number using bitwise operator and without using extra memory space?
+  5. Swap a range of bits in a number from m to n positon to x to y position. Distance of bit positions are same?
+  
